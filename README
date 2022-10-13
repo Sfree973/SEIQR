@@ -1,0 +1,22 @@
+This resource is paper "Integrated extensive detection, contact tracing and dynamic social distancing interventions to prevent future epidemic waves" source code program. Our resources are used only for learning and communication. 
+ 
+The source program is developed based on C language and runs on Visual Studio 2019. The source program mainly includes two parts, one is  numerical simulations on synthetic networks, the other is numerical simulations on real networks.
+ 
+The part of numerical simulations on synthetic networks:
+The "ADmodel.c" is the generation module of the activity driven time-varying networks.
+The "epidemicProcess1.c" is the epidemic spread module based on detection,contact tracing and social distacing interventions in the activity driven time-varying networks.
+The "main1.c" is the main file, including initialization, release of linked lists, and file writing.
+The "head1.h" is the head file, including structure definition, function declaration, etc.
+
+The part of numerical simulations on real networks:
+The "RNmodel.c" is the generation module of the real networks.
+The "epidemicProcess2.c" is the epidemic spread module based on detection,contact tracing and social distacing interventions in the real networks.
+The "main2.c" is the main file, including initialization, release of linked lists, and file writing.
+The "head2.h" is the head file, including structure definition, function declaration, etc.
+The "neighbor.c" is the information module of the neighbor.
+
+
+
+Our resources provide the main codes of the process of epidemic spread based on detection, contact tracing and social distancing interventions. Readers can simply expand according to the actual situation.
+
+
