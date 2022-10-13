@@ -1,4 +1,4 @@
-This resource is paper "Integrated extensive detection, contact tracing and dynamic social distancing interventions to prevent future epidemic waves" source code program. Our resources are used only for learning and communication. 
+This resource is the code of "Integrated extensive detection, contact tracing and dynamic social distancing interventions to prevent future epidemic wave" in IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS: SYSTEMS. Our resources are used only for learning and communication. 
  
 The source program is developed based on C language and runs on Visual Studio 2019. The source program mainly includes two parts, one is  numerical simulations on synthetic networks, the other is numerical simulations on real networks.
  
